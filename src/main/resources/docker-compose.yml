@@ -1,0 +1,10 @@
+#version: '2'
+#services:
+#    catalog-project-service-03:
+#        container_name: catalog-project-service-03
+#        build:
+#            context: ./././Dockerfile
+#            dockerfile: Dockerfile
+#        image: catalog-project-service-03:latest
+#        ports:
+#            - 8000:8000
